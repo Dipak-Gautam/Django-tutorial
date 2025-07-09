@@ -1,0 +1,8 @@
+/* body {
+  background-color: brown;
+} */
+
+.bg-home {
+  background-image: url("../image/background.jpg");
+  background-size: cover;
+}
