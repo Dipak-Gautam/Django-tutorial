@@ -1,6 +1,7 @@
-/* body {
-  background-color: brown;
-} */
+body {
+  margin: 0px;
+  padding: 0px;
+}
 
 .bg-home {
   background-image: url("../image/background.jpg");
